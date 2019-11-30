@@ -1,5 +1,4 @@
-## SimpleBBS
-### 简单在线论坛
+### 论坛
 > SpringBoot 构建
 
 > SpringBoot Mybatis Bootstrap JQuery thymeleaf 
